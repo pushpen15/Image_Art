@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/model/Bright.java</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/view/frmStart.java</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/model/FilterAverage.java</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/model/HSI.java</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/view/PaneAddImage.java</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/view/PaneSubstractImage.java</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/model/ChannelBinarization.java</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/model/BrightAux.java</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/model/FilterMedian.java</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/model/Binarization.java</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/image/pexels-lilartsy-1213447.jpg</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/model/Erosion.java</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/view/PaneAux.java</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/model/Contrast.java</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/model/BorderOfSobel.java</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/view/PaneGlobalBinarization.java</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/model/AbstractOperation.java</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/model/BinarizationByHistogram.java</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/view/PaneEmpty.java</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/model/BorderOfRoberts.java</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/view/frmPrincipal.java</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/view/PaneLocalBinarization.java</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/view/PaneFilterAverage.java</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/image/LogoImageArt.png</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/view/PaneFilterRange.java</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/model/CMYK.java</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/view/PaneChannelBinarization.java</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/view/PaneBright.java</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/imageart/ImageArt.java</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/model/AddImage.java</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/model/BorderOfPrewit.java</file>
+            <file>file:/C:/Users/goura/Desktop/java%20pro/ImageArt/src/view/PaneScale.java</file>
+        </group>
+    </open-files>
+</project-private>
